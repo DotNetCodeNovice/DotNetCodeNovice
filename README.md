@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DotNetCodeNovice
+- 👀 I’m interested in automated tests realized with teststand, c# and python.
+- 🌱 I’m currently learning Git
